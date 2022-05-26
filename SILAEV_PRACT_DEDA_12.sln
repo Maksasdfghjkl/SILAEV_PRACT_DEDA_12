@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SILAEV_PRACT_DEDA_12", "SILAEV_PRACT_DEDA_12\SILAEV_PRACT_DEDA_12.csproj", "{A11405AA-44DD-47EB-8C84-0F7C6F7FCDFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A11405AA-44DD-47EB-8C84-0F7C6F7FCDFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A11405AA-44DD-47EB-8C84-0F7C6F7FCDFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A11405AA-44DD-47EB-8C84-0F7C6F7FCDFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A11405AA-44DD-47EB-8C84-0F7C6F7FCDFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D99B060D-C508-4D2B-B9D9-207FF7390875}
+	EndGlobalSection
+EndGlobal
